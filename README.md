@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/jordanvz12/tutorial.svg?branch=master)](https://travis-ci.org/jordanvz12/tutorial)
 # H1 tutorial
 > This is a quick and simple tutorial on the essential Object Oriented Programming Concepts with code and explanation. 
 ## H2 Encapsulation
